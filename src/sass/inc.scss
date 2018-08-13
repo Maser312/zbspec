@@ -1,0 +1,24 @@
+// @import 'bootstrap/_variables.scss';
+// @import 'bootstrap/_normalize.scss';
+// @import 'bootstrap/_mixins.scss';
+// @import 'bootstrap/_grid.scss';
+// @import 'bootstrap/_modals.scss';
+// @import 'bootstrap/_media.scss';
+// @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700');
+//@import 'bootstrap/_navbar.scss';
+
+@import 'bootstrap';
+
+// .container-lg {
+//   @include container-fixed;
+//   position: relative;
+//   @media (min-width: $screen-sm-min+500px) {
+//     width: $container-sm+500px;
+//   }
+//   @media (min-width: $screen-md-min+500px) {
+//     width: $container-md+500px;
+//   }
+//   @media (min-width: $screen-lg-min+500px) {
+//     width: $container-lg +500px;
+//   }
+// }
